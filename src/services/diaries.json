@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "date": "2024-02-18",
+    "weather": "rainy",
+    "visibility": "poor",
+    "comment": "It was a rainy day, spent most of the time indoors reading."
+  },
+  {
+    "id": 2,
+    "date": "2024-02-17",
+    "weather": "sunny",
+    "visibility": "good",
+    "comment": "Sunny day, went for a long walk in the park."
+  },
+  {
+    "id": 3,
+    "date": "2024-02-16",
+    "weather": "sunny",
+    "visibility": "good",
+    "comment": "Another rainy day, watched movies and drank hot cocoa."
+  }
+]
